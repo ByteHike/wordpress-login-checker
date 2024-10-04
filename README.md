@@ -1,1 +1,1 @@
-# wordpress-login-checker
+# wordpress login checker
